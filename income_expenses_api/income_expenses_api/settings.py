@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'corsheaders', 'rest_framework',
     'authentication', 'drf_yasg',
-    'expenses', 'income'
+    'expenses', 'income', 'userstats'
 ]
 
 SWAGGER_SETTINGS = {
